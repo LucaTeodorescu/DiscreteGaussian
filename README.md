@@ -1,4 +1,4 @@
-# pathofexile_accounting
+# discrete_gaussian
 
 ## Authors
 
